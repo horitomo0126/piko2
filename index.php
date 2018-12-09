@@ -9,6 +9,6 @@
   <?php get_sidebar(); ?>
 </div>
 <?php get_footer(); ?>
-
+ino
 
 <?php include('date.php'); ?>
