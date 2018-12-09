@@ -1,0 +1,13 @@
+@charset "utf-8";
+<!--エンコードがUTF-8であることを指定-->
+/*
+theme Name: piko
+Author: tomoki horie
+Description: 自分のブログです
+version： 1.0.0
+*/
+
+img {
+	max-width: 100%;
+}
+
