@@ -9,6 +9,6 @@
   <?php get_sidebar(); ?>
 </div>
 <?php get_footer(); ?>
-
+keisuke
 
 <?php include('date.php'); ?>
