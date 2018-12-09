@@ -12,3 +12,5 @@
 keisuke
 
 <?php include('date.php'); ?>
+
+Hello ほりとも！！！
